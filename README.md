@@ -176,7 +176,7 @@ flowchart LR
 
 
 
-<h2 align="center">📬 Let's Connect</h2>
+
 
 <p align="center">
   <a href="mailto:vaddip17@gmail.com">
