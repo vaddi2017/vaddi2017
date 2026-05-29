@@ -25,8 +25,8 @@ I am a Full Stack AI Engineer focused on building enterprise-grade AI platforms,
 - ☁️ Experienced with AWS, Azure, GCP, cloud AI services, and production deployments  
 - 🧠 Strong background in machine learning, NLP, automation, and full-stack development  
 - ⚙️ Focused on scalable architecture, clean code, APIs, CI/CD, and MLOps  
-- 📫 Email: **vaddip17@gmail.com**  
-- 🌐 LinkedIn: **www.linkedin.com/in/pavan-vaddi-6820011a1**
+- 📫 Email: **pavankishorevaddi@gmail.com**  
+- 🌐 LinkedIn: **www.linkedin.com/in/pavnkv**
 
 ---
 
