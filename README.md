@@ -174,14 +174,14 @@ flowchart LR
 
 ## 🤝 Connect With Me
 
-<div align="center">
+
+
+<a <div align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/pavnkv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<a href="https://www.linkedin.com/in/pavnkv">
 <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Vaddi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
