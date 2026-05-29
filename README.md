@@ -182,7 +182,7 @@ flowchart LR
 </a>
 
 <a href="mailto:pavankishorevaddi@gmail.com">
-<img src="https://img.shields.io/badge/Email-vaddip17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-pavankishorevaddi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
