@@ -118,7 +118,7 @@ mindmap
 
 ---
 
-## 🚀 Featured Project Portfolio
+## 🚀Project Portfolio
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -148,7 +148,7 @@ flowchart LR
 
 ---
 
-## 📌 Recommended Repositories To Pin
+## 📌 Repositories
 
 1. `ai-resume-matcher`
 2. `enterprise-rag-assistant`
