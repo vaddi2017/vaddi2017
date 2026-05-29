@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vaddi2017&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/vaddi2017?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/submit/vaddi2017?label=Stars&style=for-the-badge" />
+<img src="https://img.shields.io/github/submit/vaddi2017?label=Submit&style=for-the-badge" />
 
 </div>
 
