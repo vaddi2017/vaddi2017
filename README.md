@@ -124,11 +124,7 @@ mindmap
 </div>
 
 ---
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaddi2017/vaddi2017/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 ## 🚀 Featured Project Portfolio
 
 | Project | Description | Tech Stack |
