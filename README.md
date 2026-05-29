@@ -184,11 +184,11 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pavan-vaddi-6820011a1">
+<a href="https://www.linkedin.com/in/pavnkv">
 <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Vaddi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:vaddip17@gmail.com">
+<a href="mailto:pavankishorevaddi@gmail.com">
 <img src="https://img.shields.io/badge/Email-vaddip17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
