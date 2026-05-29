@@ -115,11 +115,6 @@ mindmap
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaddi2017&theme=tokyo-night" />
-</p>
 
 ---
 
