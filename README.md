@@ -166,8 +166,8 @@ flowchart LR
 **AI/ML Engineer | Generative AI Engineer | Full Stack AI Engineer | LLM Engineer | MLOps Engineer**
 
 📍 United States  
-📧 **vaddip17@gmail.com**  
-🔗 **www.linkedin.com/in/pavan-vaddi-6820011a1**
+📧 **pavankishorevaddi@gmail.com**  
+🔗 **www.linkedin.com/in/pavnkv**
 
 </div>
 
