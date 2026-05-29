@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me Enter your Name
+## 👨‍💻 About Me 
 
 I am a Full Stack AI Engineer focused on building enterprise-grade AI platforms, Generative AI applications, LLM-powered systems, RAG pipelines, cloud-native applications, and scalable MLOps workflows.
 
